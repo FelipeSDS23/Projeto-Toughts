@@ -4,10 +4,15 @@
 
 Este projeto é uma aplicação **Node.js** que utiliza um banco de dados **MySQL** para construir uma plataforma similar a uma rede social. O sistema permite que os usuários se cadastrem, façam login autenticado e compartilhem posts de pensamentos, ideias ou reflexões, criando um espaço para expressar livremente o que quiserem.
 
+<img src="readme_prints/print-1.png" alt="Site">
+
 Funcionalidades principais:
 - **Cadastro de Usuário**: Crie uma conta com informações básicas.
+<img src="readme_prints/print-2.png" alt="Site">
 - **Autenticação e Login**: Faça login com segurança para acessar seu perfil.
+<img src="readme_prints/print-3.png" alt="Site">
 - **Postagem de Conteúdo**: Compartilhe seus pensamentos ou ideias com outros usuários.
+<img src="readme_prints/print-4.png" alt="Site">
 
 ## Tecnologias
 
@@ -55,8 +60,6 @@ Para iniciar o servidor, execute:
 npm start
 
 A aplicação estará disponível em http://localhost:3000.
-
-<img src="prints/print-1.png" alt="Site">
 
 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato:
