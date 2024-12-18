@@ -56,6 +56,7 @@ npm start
 
 A aplicação estará disponível em http://localhost:3000.
 
+<img src="prints/print-1.png" alt="Site">
 
 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato:
